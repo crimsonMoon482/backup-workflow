@@ -1,0 +1,16 @@
+{
+  "border_radius": "1rem",
+  "shadow_style": "soft",
+  "animation_style": "smooth-rise",
+  "layout_density": "comfortable",
+  "button_style": "rounded-filled",
+  "colors": {
+    "background": "#FFFFFF",
+    "surface": "#F8FAFC",
+    "primary": "#4F46E5",
+    "secondary": "#4338CA",
+    "accent": "#06B6D4",
+    "text_primary": "#0F172A",
+    "text_secondary": "#475569"
+  }
+}
